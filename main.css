@@ -10,7 +10,26 @@ body {
   color: #2ddf5c;
 }
 
-h1 {
+#product-overview h1 {
   color: white;
   font-family: 'Anton', sans-serif;
+}
+
+#assignment-title {
+  color: #ff1122;
+  font-family: sans-serif;
+}
+
+code {
+  color: #ff0000;
+  font-family: monospace;
+}
+
+.code-highlight {
+  color: #00ff00;
+}
+
+li + li {
+  background: black;
+  color: white;
 }

@@ -143,7 +143,7 @@
   font-size: 1.2rem;
 }
 
-@media (min-width: 40rem) {
+@media (min-width: 40rem) and (min-height: 50rem) {
   .key-feature {
     display: inline-block;
     width: 30%;

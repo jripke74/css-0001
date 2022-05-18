@@ -18,7 +18,7 @@
 
 #product-overview h1 {
   color: white;
-  font-family: 'Anton', sans-serif;
+  font-family: "Anton", sans-serif;
   position: absolute;
   bottom: 5%;
   left: 3%;
@@ -197,4 +197,5 @@
 .modal__action--negative:hover,
 .modal__action--negative:active {
   background: #ff5454;
+  border-color: #ff5454;
 }
